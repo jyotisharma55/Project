@@ -1,0 +1,17 @@
+[{
+    "data":"How to get Started with classcast.",
+    "module":1,
+    "lock":false
+},{
+    "data": "The benefits of joining Classcast.",
+    "module": 2,
+    "lock": false
+},{
+    "data": "How working with a startup changes the course of your carrer.",
+    "module": 3,
+    "lock": false
+},{
+    "data": "Questions one should ask before joining a startup.",
+    "module": 4,
+    "lock": true
+}]
